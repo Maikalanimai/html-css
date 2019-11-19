@@ -52,3 +52,10 @@
     margin: 10px;
 
 }
+#hello {
+    color: navy;
+    border: 1px solid grey;
+    margin: 5px 30%;
+    height: 260px;
+    text-align: center;
+}
