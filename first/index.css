@@ -1,8 +1,32 @@
-body {
-    height: 100%;
-    width: 100%;
-    background-color: #CCD1D1;
-    padding: 12% 5% 0% 10%;
-    padding-right: 
 
+body {
+    height: 500px;
+    width: 300px;
+    background-color: #707B7C;
+    margin: auto;
+}
+header {
+    height: 75px;
+    width: auto;
+    background-color: #1C2833;
+
+}
+
+#full {
+    margin-right: 20px;
+    margin-left: 45px;
+    
+}
+
+#center-block {
+    height: 400px;
+    width: auto;
+    background-color: #B2BABB;
+
+}
+
+#lower-block {
+    height: 25px;
+    width: auto;
+    background-color: #1C2833;
 }

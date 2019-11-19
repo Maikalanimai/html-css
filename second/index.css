@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+.main {
+    height: 300px;
+    width: auto;
+}
+#first {
+    border: 5px solid black;
+    margin: 10px;
+}
+#purp {
+    height: 60%;
+    width: 60px;
+    background-color: #4A235A;
+   margin: 10px;
+   margin-top: 100px;
+   float: left;
+}
+#green {
+    height: 90%;
+    width: 45%;
+    background-color: green;
+    float: left;
+    margin: 20px;
+}
+#circle {
+    background-color: lightskyblue;
+    float: left;
+    height: 275px;
+    width: 275px;
+    border-radius: 50%;
+    margin: 5px;
+
+}
+#black {
+    background-color: black;
+    height: 260px;
+    width: auto;
+    margin: 20px;
+}
+#cream {
+    background-color: #F9E79F;
+    height: 250px;
+    width: auto;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+#second {
+    border: 5px dashed black;
+    margin: 10px;
+
+}
